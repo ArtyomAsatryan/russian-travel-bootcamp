@@ -8,13 +8,14 @@
 
 
 @media screen and (max-width: 1023px) {
-    .place__title {
+    .place__paragraph {
         font-size: 16px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .place__title {
+    .place__paragraph {
         grid-area: paragraph;
+        padding: 0 16px;
     }
 }

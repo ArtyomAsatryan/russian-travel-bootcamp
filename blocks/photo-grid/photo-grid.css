@@ -4,6 +4,7 @@
     margin: 92px 48px;
     grid-template-columns: repeat(auto-fill, 284px);
     grid-template-rows: repeat(auto-fill, 213px);
+    align-self: stretch;
 }
 
 @media screen and (max-width: 767px) {

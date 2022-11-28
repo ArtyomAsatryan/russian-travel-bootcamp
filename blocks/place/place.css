@@ -28,5 +28,6 @@
             "website"
             "image"
             "paragraph";
+            gap: 32px;
     }
 }
