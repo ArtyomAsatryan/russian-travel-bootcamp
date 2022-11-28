@@ -15,7 +15,7 @@
     opacity: 0.3;
 }
 
-.cover__overlay {
+.cover__overlay:hover {
     opacity: 0.8;
 }
 
