@@ -21,6 +21,6 @@
     }
 }
 
-.footer__link:last-child a {
+.footer__link:last-child {
     margin: 0;
 }

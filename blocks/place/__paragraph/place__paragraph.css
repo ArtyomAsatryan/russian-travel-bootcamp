@@ -10,10 +10,17 @@
     margin: 0px auto 0 auto;
 }
 
+@media screen and (max-width: 1279px) {
+    .place__paragraph {
+        min-width: 456px;
+    }
+}
+
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
+        min-width: 352px;
     }
 }
 
@@ -23,6 +30,7 @@
         font-size: 16px;
         line-height: 26px;
         grid-area: paragraph;
+        min-width: 288px;
     }
 
 }
